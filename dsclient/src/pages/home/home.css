@@ -1,0 +1,14 @@
+.banner{
+    background: url(../../assets/images/online-shop-7090027_640.png) center center;
+    
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    min-height: 420px;
+}
+
+.banner h1{
+    padding: 20px;
+    color: white;
+}

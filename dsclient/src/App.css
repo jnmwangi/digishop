@@ -1,0 +1,27 @@
+:root{
+  --primary-color: #000;
+  --background-color: #eeeeee;
+  color-scheme: light;
+}
+
+*{
+  box-sizing: 0px;
+}
+
+body{
+  margin: 0;
+}
+
+#root {
+  background-color: var(--background-color);
+  height: 100dvh;
+  overflow: hidden;
+  overflow-y: auto;
+}
+
+a{
+  padding: 10px 0;
+}
+
+
+
